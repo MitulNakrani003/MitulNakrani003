@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mitul Nakrani</h1>
-<h3 align="center">A passionate graduate student with enthusiasm for software engineering and problem-solving</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mitulnakrani003&label=Profile%20views&color=0e75b6&style=flat" alt="mitulnakrani003" /> 
